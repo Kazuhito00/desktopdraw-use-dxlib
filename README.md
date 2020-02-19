@@ -23,10 +23,12 @@ desktopdraw_use_dxlibはDXライブラリ(C# DLL版)を用いて、Pythonでデ�
 ```bash
 python desktopdraw_use_dxlib.py
 ```
+![2020-02-19 (1)](https://user-images.githubusercontent.com/37477845/74846137-59bb1a00-5373-11ea-9618-4a8792e50ce0.png)
  
 ```bash
 python objectdetection_example.py
 ```
+![maqbp-1uu9w](https://user-images.githubusercontent.com/37477845/74846159-60e22800-5373-11ea-8920-3906fdf72f52.gif)
 
 # Note
 objectdetection_example.pyで利用している物体検出モデルは以下から取得しています。
