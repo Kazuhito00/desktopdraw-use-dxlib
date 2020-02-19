@@ -23,7 +23,7 @@ desktopdraw_use_dxlibはDXライブラリ(C# DLL版)を用いて、Pythonでデ�
 ```bash
 python desktopdraw_use_dxlib.py
 ```
-![2020-02-19 (1)](https://user-images.githubusercontent.com/37477845/74846137-59bb1a00-5373-11ea-9618-4a8792e50ce0.png)
+![2020-02-19 (1)](https://user-images.githubusercontent.com/37477845/74846324-9f77e280-5373-11ea-9e5f-a13ab67c86fd.png)
  
 ```bash
 python objectdetection_example.py
