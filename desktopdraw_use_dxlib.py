@@ -4,9 +4,6 @@
 import os
 import sys
 from ctypes import cdll, create_string_buffer
-from PIL import ImageGrab
-import numpy as np
-import cv2 as cv
 
 if __name__ == '__main__':
 
@@ -42,10 +39,6 @@ if __name__ == '__main__':
     dxlib.dx_SetDrawScreen(-2)  # DX_SCREEN_BACK:-2
     while dxlib.dx_ProcessMessage() == 0:
         dxlib.dx_ClearDrawScreen()
-
-        # デスクトップキャプチャ
-        frame = np.asarray(ImageGrab.grab())
-        frame = cv.cvtColor(frame, cv.COLOR_RGB2BGR)
 
         draw_string = 'DESKTOP DRAW TEST'
         encode_string = draw_string.encode('utf-8')
