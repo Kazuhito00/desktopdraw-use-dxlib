@@ -1,5 +1,5 @@
-# desktopdraw_use_dxlib
-desktopdraw_use_dxlibはDXライブラリ(C# DLL版)をPythonから使用することで、
+# desktopdraw-use-dxlib
+desktopdraw-use-dxlibはDXライブラリ(C# DLL版)をPythonから使用することで、
 デスクトップ上に図形やテキストを重畳表示するプログラムです。
 
 [ＤＸライブラリ](https://dxlib.xsrv.jp/)を利用しています。
@@ -40,7 +40,7 @@ objectdetection_example.pyで利用している物体検出モデルは以下か
 高橋かずひと
  
 # License 
-desktopdraw_use_dxlib is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+desktopdraw-use-dxlib is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 # DXライブラリ License 
 ＤＸライブラリの著作権は山田 巧様が保持しています。
