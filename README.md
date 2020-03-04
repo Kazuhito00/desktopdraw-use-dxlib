@@ -1,10 +1,8 @@
 # desktopdraw-use-dxlib
-desktopdraw-use-dxlibはDXライブラリ(C# DLL版)をPythonから使用することで、
+desktopdraw-use-dxlibはDXライブラリ(C# DLL版)をPythonから使用することで、<br>
 デスクトップ上に図形やテキストを重畳表示するプログラムです。
 
-[ＤＸライブラリ](https://dxlib.xsrv.jp/)を利用しています。
-
-描画用のAPIの詳細は[ＤＸライブラリ](https://dxlib.xsrv.jp/)を参照ください。
+デスクトップ上の描画には、[ＤＸライブラリ](https://dxlib.xsrv.jp/)を利用しています。<br>描画用のAPIの詳細は[ＤＸライブラリ](https://dxlib.xsrv.jp/)を参照ください。
 
 
 # Enviroment
