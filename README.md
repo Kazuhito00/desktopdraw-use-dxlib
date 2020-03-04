@@ -43,6 +43,4 @@ desktopdraw-use-dxlib is under [MIT license](https://en.wikipedia.org/wiki/MIT_L
 # DXライブラリ License 
 ＤＸライブラリの著作権は山田 巧様が保持しています。
 
-詳しくは以下ライセンステキストをご参照ください。
-
-LICENSE(DxLib)
+詳しくは以下ライセンステキストをご参照ください。<br>[LICENSE(DxLib)](https://github.com/Kazuhito00/desktopdraw-use-dxlib/blob/master/LICENSE(DxLib))
